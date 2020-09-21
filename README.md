@@ -1,1 +1,1 @@
-# LabImageAndroid
+# low resolution image capture
